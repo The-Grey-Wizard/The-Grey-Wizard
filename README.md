@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C++ for Unreal Engine
 - 💞️ I’m looking to collaborate on business and marketing of game dev
-- 📫 How to reach me at email jordyboy_13@msn.com
+- 📫 How to reach me at email Jordan@skjoldgames.com
 
 <!---
 The-Grey-Wizard/The-Grey-Wizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
