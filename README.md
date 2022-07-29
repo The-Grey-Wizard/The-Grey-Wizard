@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @The-Grey-Wizard. Feel free to call me by my real name Jordan!
 - 👀 I’m interested in education, all things Apple and game development
-- 🌱 I’m currently learning Python with Jose Portilla
+- 🌱 I’m currently learning Python with Jose Portilla and @Pierian-Data
 - 💞️ I’m looking to teach programming fundamentals to K-12 students
 - 📫 How to reach me at email Jordan@skjoldgames.com
 
